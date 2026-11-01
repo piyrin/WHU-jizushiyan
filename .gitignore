@@ -1,0 +1,44 @@
+# Vivado generated project directories
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.gen/
+*.ip_user_files/
+xsim.dir/
+webtalk/
+
+# Vivado logs, reports, compiled checkpoints and waveforms
+*.log
+*.jou
+*.str
+*.pb
+*.rpt
+*.dcp
+*.bit
+*.ltx
+*.wdb
+*.vcd
+*.vpd
+*.sdb
+*.rpx
+
+# Local scratch files and Python caches
+/tmp/
+__pycache__/
+*.py[cod]
+.venv/
+
+# Editor and office temporary files
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+~$*
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Keep project inputs: .xpr, .srcs/, .v, .vhd, .xdc, .coe, .mif, .xci, .bd
